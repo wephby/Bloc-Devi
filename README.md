@@ -28,3 +28,5 @@ User Stories :
   -The app can generate a PDF estimate to send to clients 
 
 5) Language Options(French / English)
+   
+![IMG_20251108_145015189](https://github.com/user-attachments/assets/30f83c74-b157-4976-bf83-e1e8bb614801)
